@@ -1,5 +1,7 @@
 # Kamu
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tw-library/library-ui.svg)](https://greenkeeper.io/)
+
 This is an application that focus on managing a physical library, you can add books, borrow and return them. It's available here [http://twlib.herokuapp.com/](http://twlib.herokuapp.com/).
 
 # Wiki
